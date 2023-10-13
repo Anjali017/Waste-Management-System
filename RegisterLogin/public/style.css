@@ -1,0 +1,37 @@
+.navbar-nav {
+    margin-left: auto;
+
+  }
+
+  .navbar {
+    padding: 20px 60px;
+    background-color: #563d7c;
+  }
+
+  .nav-item {
+    padding: 7px;
+  }
+
+  .nav-link {
+    font-size: 16px;
+
+  }
+
+  .navbar-nav .nav-item .nav-link:hover {
+    color: yellow;
+  }
+
+  .navbar-brand {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .avatar-ctn {
+    background-color: orange;
+    text-align: center;
+    border-bottom: 1px solid rgba(0,0,0,0.125);
+  }
+
+  .avatar {
+    width: 65%;
+  }
