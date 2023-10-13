@@ -12,7 +12,7 @@ The Waste Management System is an innovative online solution designed to facilit
 
 1. [Features](#features)
 2. [Prerequisites](#prerequisites)
-3. [Social Relevance](#Social Relevance)
+3. [Social Relevance](#social-relevance)
 
 
 ## Features
